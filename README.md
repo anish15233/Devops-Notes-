@@ -1,4 +1,4 @@
-# 🚀 DevOps Notes
+# 🚀 DevSecOps Notes
 
 Welcome to **DevOps Notes** — a collaborative repository created to document our learning journey, hands-on practice, and real-world concepts in DevOps, Cloud, Automation, and DevSecOps.
 
@@ -9,7 +9,7 @@ This repository serves as a centralized knowledge base for storing useful notes,
 ## 📚 Topics Covered
 
 * ☁️ Cloud Computing
-* ⚙️ DevOps Fundamentals
+* ⚙️ DevSecOps Fundamentals
 * 🔄 CI/CD Pipelines
 * 🐳 Docker
 * ☸️ Kubernetes (K8s)
