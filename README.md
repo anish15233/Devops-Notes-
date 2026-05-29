@@ -8,7 +8,7 @@ This repository serves as a centralized knowledge base for storing useful notes,
 
 ## 📚 Topics Covered
 
-* ☁️ Cloud Computing
+* ☁️ Cloud Computing Topics
 * ⚙️ DevSecOps Fundamentals
 * 🔄 CI/CD Pipelines
 * 🐳 Docker
