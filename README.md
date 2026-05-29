@@ -9,17 +9,43 @@ This repository serves as a centralized knowledge base for storing useful notes,
 ## 📚 Topics Covered
 
 * ☁️ Cloud Computing
-* ⚙️ DevSecOps Fundamentals
+* ☁️ Microsoft Azure
+* ☁️ Amazon Web Services (AWS)
+* ⚙️ DevOps Fundamentals
+* 🔐 DevSecOps
 * 🔄 CI/CD Pipelines
+* 🚀 Azure DevOps
+* ⚡ GitHub Actions
+* 🧩 Git & GitHub
 * 🐳 Docker
 * ☸️ Kubernetes (K8s)
-* 🏗️ Terraform & Infrastructure as Code
-* 🔐 DevSecOps
-* 🚀 Azure DevOps
-* 🧩 Git & GitHub
+* 🏗️ Terraform & Infrastructure as Code (IaC)
+* 📦 Helm Charts
 * 🐧 Linux Administration
-* 📜 Shell Scripting & PowerShell
+* 📜 Shell Scripting (Bash)
+* 💻 PowerShell
+* 🌐 Networking Fundamentals
+* 🔒 Cloud Security
+* 🔑 Identity & Access Management (IAM)
+* 🛡️ Microsoft Defender for Cloud
+* 🔍 Vulnerability Management
 * 📊 Monitoring & Logging
+* 📈 Observability
+* 📡 Prometheus & Grafana
+* 📝 YAML & JSON
+* 🗄️ Azure Storage
+* 🔐 Azure Key Vault
+* 🌍 Azure Virtual Networks (VNet)
+* ⚡ Azure App Services
+* 🏢 Azure Landing Zones
+* 🤖 Automation & Orchestration
+* 🏭 Platform Engineering
+* 🧪 Dev/Test Environments
+* 📋 Troubleshooting & Root Cause Analysis
+* 🎯 Interview Preparation Notes
+* 📚 Certification Study Notes
+* 🚀 Real-World Use Cases & Labs
+
 
 ---
 
